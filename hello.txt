@@ -1,2 +1,2 @@
-Hello Git!
 Hello from main branch!
+Hello from conflict branch!
